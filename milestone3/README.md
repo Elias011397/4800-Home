@@ -2,4 +2,4 @@
 
 
 # Milestone 3: Design Alternatives
-# Summary Video:
+# Summary Video: https://youtu.be/KqnMFyfNmUQ
